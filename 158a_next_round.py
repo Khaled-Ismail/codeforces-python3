@@ -2,7 +2,6 @@ inp1=input().split()
 for i in range(0, len(inp1)):
     inp1[i] = int(inp1[i])
 inp2=input().split()
-
 for i in range (0, len(inp2)):
     inp2[i] = int(inp2[i])
 
