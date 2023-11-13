@@ -1,2 +1,2 @@
 # codeforces-python3
-Solution to problemsets in codeforces.com, using Python3
+Solutions to problemsets in codeforces.com, using Python3
